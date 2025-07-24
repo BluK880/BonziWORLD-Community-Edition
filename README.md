@@ -1,4 +1,6 @@
-# BonziWORLD-Community-Editionmay 2023, seamus created bonziworld website that website is including bonziworld community edition.
+# BonziWORLD-Community-Edition
+
+may 2023, seamus created bonziworld website that website is including bonziworld community edition.
 
 before 2024, bonziworld community edition website was actually shutted down.
 
